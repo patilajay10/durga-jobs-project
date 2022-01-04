@@ -1,0 +1,22 @@
+body{
+ 
+ background: url(https://images.ctfassets.net/hrltx12pl8hq/4plHDVeTkWuFMihxQnzBSb/aea2f06d675c3d710d095306e377382f/shutterstock_554314555_copy.jpg);
+ background-size: cover;
+}
+h1{
+ color: red;
+ 
+ background-color: yellowgreen;
+ text-align: center;
+}
+table{
+ margin: auto;
+ border: 2px solid red;
+ color: red;
+ background: yellow;
+ font-size: 25px;
+}
+thead{
+ background: green;
+ color: white;
+}
